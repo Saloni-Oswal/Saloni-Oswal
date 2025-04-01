@@ -1,6 +1,6 @@
 # Hi there, I'm Saloni! 👋
 
-*I'm a passionate frontend engineer spanning over 6 years of experience building responsive web applications using modern technologies! <br /><br />
+*I'm a passionate frontend engineer spanning over 6 years of experience building responsive web applications using modern web technologies! <br /><br />
 My true passion lies at the intersection of design and engineering, where I relish in crafting software that not only boasts aesthetic appeal but also operates flawlessly beneath the surface, prioritizing clean and well-documented code design!* ✌🏻
 
 <hr />
@@ -9,7 +9,7 @@ My true passion lies at the intersection of design and engineering, where I reli
 
 🤝 I’m open to collaborate on projects that leverage different AI models to create end user web applications
 
-📫 Reach me at: mailto:salonioswal22@gmail.com
+📫 Reach me at: salonioswal22@gmail.com
 
 😄 Pronouns: She/Her
 
